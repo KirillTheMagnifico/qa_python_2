@@ -1,0 +1,4 @@
+.DS_Store
+	__pycache__/main.cpython-310.pyc
+	__pycache__/tests.cpython-310-pytest-7.2.1.pyc
+
